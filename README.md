@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as a **full-stack developer**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **CI/CD, AWS**
  
  📫 How to reach me **ayoubsaddi01@gmail.com**
 
