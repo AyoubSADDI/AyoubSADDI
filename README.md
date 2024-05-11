@@ -11,7 +11,7 @@
  
  🔭 I’m currently working as a **full-stack developer**
  
- 🌱 I’m currently learning **CI/CD, AWS**
+ 🌱 I’m currently learning **CI/CD, AWS**  ☁️☁️
  
  📫 How to reach me ,click here  <a href="mailto:ayoubsaddi01@gmail.com">🔗</a>
 
