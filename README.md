@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **SpringBoot, Angular, MySql... or anything [here](https://github.com/AyoubSADDI?tab=repositories)**
+💬 Ask me about **SpringBoot, Angular, MySql, Docker, Nexsus... or anything [here](https://github.com/AyoubSADDI?tab=repositories)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
