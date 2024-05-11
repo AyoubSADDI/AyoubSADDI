@@ -13,15 +13,15 @@
  
  🌱 I’m currently learning **CI/CD, AWS**
  
- 📫 How to reach me  <a href="mailto:ayoubsaddi01@gmail.com">here</a>
+ 📫 How to reach me  <a href="mailto:ayoubsaddi01@gmail.com">🌟</a>
 
  💬 Ask me about **SpringBoot, Angular, MySql, Docker, Micro-Service, Nexus, Sonar, Jenkins., Maven, Java, JavaScript... or anything)**
 
- 👨‍💻 All of my projects are available [here](https://github.com/AyoubSADDI?tab=repositories)
+ 👨‍💻 All of my projects are available [✅](https://github.com/AyoubSADDI?tab=repositories)
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
- 📄 Know about my experiences [here](https://drive.google.com/file/d/1PjH8tXU-jJP7ZRVR0D3ryymjISunq9ei/view?usp=drive_link)
+ 📄 Know about my experiences [👌](https://drive.google.com/file/d/1PjH8tXU-jJP7ZRVR0D3ryymjISunq9ei/view?usp=drive_link)
 
  </div>
  
