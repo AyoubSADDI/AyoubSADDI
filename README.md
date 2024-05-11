@@ -18,7 +18,7 @@
 
  💬 Ask me about **SpringBoot, Angular, MySql, Docker, Micro-Service, Nexus, Sonar, Jenkins., Maven, Java, JavaScript... or anything)**
 
- 👨‍💻 All of my projects are available [here](https://github.com/AyoubSADDI?tab=repositories
+ 👨‍💻 All of my projects are available [here](https://github.com/AyoubSADDI?tab=repositories)
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
