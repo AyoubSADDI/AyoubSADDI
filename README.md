@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **full-stack developer**
+ 🔭 I’m currently working as a **full-stack developer** 🌐
  
  🌱 I’m currently learning **CI/CD, AWS**  ☁️☁️
  
