@@ -13,10 +13,16 @@
  🔭 I’m currently working as a **full-stack developer**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
+ 
+ 📫 How to reach me **ayoubsaddi01@gmail.com**
 
-💬 Ask me about **SpringBoot, Angular, MySql, Docker, Micro-Service, Nexus, Sonar, Jenkins., Maven, Java, JavaScript... or anything [here](https://github.com/AyoubSADDI?tab=repositories)**
+ 💬 Ask me about **SpringBoot, Angular, MySql, Docker, Micro-Service, Nexus, Sonar, Jenkins., Maven, Java, JavaScript... or anything)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 👨‍💻 All of my projects are available [here](https://github.com/AyoubSADDI?tab=repositories
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ 📄 Know about my experiences [https://drive.google.com/file/d/1PjH8tXU-jJP7ZRVR0D3ryymjISunq9ei/view?usp=drive_link](https://drive.google.com/file/d/1PjH8tXU-jJP7ZRVR0D3ryymjISunq9ei/view?usp=drive_link)
 
  </div>
  
