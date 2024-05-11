@@ -14,7 +14,9 @@
  
  🌱 I’m currently learning **CI/CD, AWS**
  
- 📫 How to reach me **ayoubsaddi01@gmail.com**
+ 📫 How to reach me  <a href="mailto:ayoubsaddi01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
  💬 Ask me about **SpringBoot, Angular, MySql, Docker, Micro-Service, Nexus, Sonar, Jenkins., Maven, Java, JavaScript... or anything)**
 
@@ -27,9 +29,6 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:ayoubsaddi01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/ayoub-saddi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
