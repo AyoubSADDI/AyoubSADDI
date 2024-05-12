@@ -4,6 +4,8 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayoub%20SADDI&theme=highcontrast&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
+<br />
+<br />
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
