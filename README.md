@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **CI/CD, AWS**  ☁️☁️
  
- 📫 How to reach me ,click here  <a href="mailto:ayoubsaddi01@gmail.com">🔗</a>
+ 📫 How to reach me ,click here  <a href="mailto:ayoubsaddi01@gmail.com">💌</a>
 
  💬 Ask me about **SpringBoot, Angular, MySql, Docker, Micro-Service, Nexus, Sonar, Jenkins., Maven, Java, JavaScript... or anything)**
 
