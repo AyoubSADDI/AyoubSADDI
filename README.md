@@ -1,8 +1,8 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayoub%20SADDI&theme=dark" alt="GitHub Streak" /></a>
-
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayoub%20SADDI&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+SADDI+😀!;" />
 </h1>
