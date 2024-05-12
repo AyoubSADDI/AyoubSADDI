@@ -1,3 +1,36 @@
+<h1 align="center">
+    <span id="typing-text"></span>
+</h1>
+
+<style>
+    @keyframes typing {
+        from { width: 0 }
+        to { width: 100% }
+    }
+
+    #typing-text {
+        display: inline-block;
+        overflow: hidden;
+        border-right: .15em solid orange;
+        white-space: nowrap;
+        margin: 0 auto;
+        animation: typing 4s steps(20, end) infinite;
+    }
+</style>
+
+<script>
+    const text = "Hi there! 👋 I'm Ayoub SADDI 😀!";
+    let i = 0;
+    function typeWriter() {
+        if (i < text.length) {
+            document.getElementById("typing-text").innerHTML += text.charAt(i);
+            i++;
+            setTimeout(typeWriter, 150);
+        }
+    }
+    typeWriter();
+</script>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 
