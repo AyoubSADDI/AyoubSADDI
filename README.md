@@ -21,9 +21,6 @@
     </a>
     <br />
     <br />
-    <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-      <img src="./powered-by-vercel.svg"/>
-    </a>
   </p>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayoub%20SADDI&theme=highcontrast&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
