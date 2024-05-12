@@ -1,7 +1,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcom+To+My+Profile+😀!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcom+To+My+Profile !+😁;" />
 </h1>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayoub%20SADDI&theme=highcontrast&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
@@ -31,7 +31,7 @@
     <br />
   </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ayoub+SADDI+😀!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ayoub+SADDI !+😀;" />
 </h1>
 
 <h3 align="center">A passionate software developer 💻 from Tunisia 🇹🇳 🌞🏛️🏖️</h3>
